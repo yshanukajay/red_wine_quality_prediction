@@ -12,4 +12,5 @@ joblib
 types-pyYaml
 Flask
 Flask-Cors
+mlflow
 -e .
